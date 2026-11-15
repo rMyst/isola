@@ -1,0 +1,32 @@
+Isola
+Copyright (c) 2026 the author of Isola. Все права защищены. All rights reserved.
+
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ (кратко)
+
+1. Isola распространяется бесплатно. Вы можете скачать её с официальной страницы выпусков
+   (https://github.com/rMyst/isola/releases), установить и пользоваться ею на своих компьютерах
+   в личных и рабочих целях.
+
+2. Без письменного разрешения автора нельзя:
+   - продавать Isola или брать плату за доступ к ней;
+   - распространять изменённые копии, а также выкладывать установщик на других сайтах под видом
+     официального;
+   - декомпилировать, дизассемблировать, деобфусцировать программу и пытаться получить её исходный
+     код, кроме случаев, прямо разрешённых законом;
+   - удалять или менять сведения об авторе и эту лицензию.
+
+3. Программа предоставляется «как есть», без каких-либо гарантий. Автор не отвечает за возможный
+   ущерб от её использования в той мере, в какой это допускает закон.
+
+4. В составе Isola есть компоненты сторонних авторов (.NET, Microsoft Edge WebView2, NAudio,
+   Svelte, Lucide и др.). Они распространяются на условиях своих лицензий; их тексты — в файле
+   THIRD-PARTY-NOTICES.md в папке программы (wwwroot) и у соответствующих проектов.
+
+5. Используя Isola, вы соглашаетесь с этими условиями. Если вы не согласны — удалите программу.
+
+---
+
+This is proprietary freeware. You may download and use it free of charge. Redistribution of modified
+copies, resale, reverse engineering (except where the law expressly permits it) and removal of this
+notice are not allowed without the author's written permission. Provided "as is", without warranty.
+Third-party components remain under their own licenses.
